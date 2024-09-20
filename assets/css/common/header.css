@@ -11,7 +11,18 @@
 .nav a {
     display: block;
 }
-
+.links {
+    vertical-align: middle;
+}
+.links a {
+    display: inline;
+    color: #7A777A;
+    text-decoration: none;
+    margin-left: 10px;
+}
+.links a:hover{
+    text-decoration: underline;
+}   
 .logo,
 #menu {
     display: flex;

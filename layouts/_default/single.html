@@ -16,12 +16,14 @@
     </h1>
     {{- if .Description }}
     <div class="post-description">
+      
       {{ .Description }}
     </div>
     {{- end }}
     {{- if not (.Param "hideMeta") }}
     <div class="post-meta">
-      {{- partial "post_meta.html" . -}}
+      {{- partial "post_meta.html" . -}} &nbsp; &#9679;
+      {{ partial "reading-time.html" . }}
       {{- partial "translation_list.html" . -}}
       {{- partial "edit_post.html" . -}}
       {{- partial "post_canonical.html" . -}}

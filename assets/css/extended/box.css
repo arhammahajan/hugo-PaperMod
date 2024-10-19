@@ -1,4 +1,4 @@
-.proof-box {
+.box {
     border-left: 5px solid #5F6F6E; /* Green border */
     background-color: #EFF0F1; /* Light green background */
     padding-bottom: 15px;
@@ -6,7 +6,7 @@
     margin-bottom: 20px;
 }
 
-.proof-box span {
+.box span {
     background-color: #5F6F6E; /* Darker green for the title background */
     color: white;
     padding: 7px;
@@ -16,7 +16,7 @@
     font-size: medium;
 }
 
-.proof-box p {
+.box p {
     font-family: Arial, sans-serif;
     color: black;
     padding-left: 15px;

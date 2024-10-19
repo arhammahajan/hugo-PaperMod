@@ -1,0 +1,31 @@
+.theorem-box {
+    border: 3px dashed #2C5F37;
+    border-radius: 16px;
+    padding: 20px;
+    width: 100%;
+    margin-bottom: 20px;
+    margin-top:20px;
+    display: inline-block;
+}
+
+.theorem-box span {
+    position:relative;
+    display:flex;
+    justify-content: center;
+    top : -40px;
+    color: #102314;
+    border: 1.5px solid #2C5F37;
+    background-color: #EAF5EA;
+    padding: 5px 10px;
+    font-size: 18px;
+    margin:auto;
+    font-weight: bold;
+    border-radius: 8px;
+    width:fit-content;
+}
+
+.theorem-box p {
+    font-size: 24px;
+    font-family: 'Georgia', serif;
+    margin-top: 10px;
+}

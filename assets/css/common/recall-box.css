@@ -1,0 +1,23 @@
+/* Text Box with a Green Border */
+.recall-box {
+    border-left: 5px solid #5E6F6F; 
+    background-color: #EEF0F0; 
+    padding-bottom: 15px;
+    border-radius: 4px;
+    margin-bottom: 20px;
+}
+
+.recall-box span {
+    background-color: #5E6F6F; 
+    color: white;
+    padding: 7px;
+    margin-left : -5px;
+    border-top-left-radius: 4px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+}
+
+.recall-box p {
+    font-family: Arial, sans-serif;
+    color: black;
+}

@@ -1,0 +1,24 @@
+.definition-box {
+    border-left: 5px solid #9699CB; /* Green border */
+    background-color: #E0E1EF; /* Light green background */
+    padding-bottom: 15px;
+    border-radius: 4px;
+    margin-bottom: 20px;
+}
+
+.definition-box span {
+    background-color: #9699CB; /* Darker green for the title background */
+    color: white;
+    padding: 7px;
+    margin-left : -5px;
+    border-top-left-radius: 4px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+}
+
+.definition-box p {
+    font-family: Arial, sans-serif;
+    color: black;
+    padding-left: 15px;
+    padding-right: 15px;
+}

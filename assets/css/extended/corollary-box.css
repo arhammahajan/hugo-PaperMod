@@ -1,14 +1,13 @@
-/* Text Box with a Green Border */
-.recall-box {
-    border-left: 5px solid #5E6F6F; 
-    background-color: #EEF0F0; 
+.corollary-box {
+    border-left: 5px solid #cfa8a8; /* Green border */
+    background-color: #efe5e5; /* Light green background */
     padding-bottom: 15px;
     border-radius: 4px;
     margin-bottom: 20px;
 }
 
-.recall-box span {
-    background-color: #5E6F6F; 
+.corollary-box span {
+    background-color: #cfa8a8; /* Darker green for the title background */
     color: white;
     padding: 7px;
     margin-left : -5px;
@@ -17,7 +16,9 @@
     font-size: medium;
 }
 
-.recall-box p {
+.corollary-box p {
     font-family: Arial, sans-serif;
     color: black;
+    padding-left: 15px;
+    padding-right: 15px;
 }

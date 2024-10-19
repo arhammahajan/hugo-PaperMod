@@ -1,0 +1,24 @@
+.example-box {
+    border-left: 5px solid #F0C3A1; /* Green border */
+    background-color: #FBEDE3; /* Light green background */
+    padding-bottom: 15px;
+    border-radius: 4px;
+    margin-bottom: 20px;
+}
+
+.example-box span {
+    background-color: #F0C3A1; /* Darker green for the title background */
+    color: black;
+    padding: 7px;
+    margin-left : -5px;
+    border-top-left-radius: 4px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+}
+
+.example-box p {
+    font-family: Arial, sans-serif;
+    color: black;
+    padding-left: 15px;
+    padding-right: 15px;
+}

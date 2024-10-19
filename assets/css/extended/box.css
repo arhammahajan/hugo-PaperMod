@@ -19,6 +19,7 @@
 .box p {
     font-family: Arial, sans-serif;
     color: black;
+    padding-top: 10px;
     padding-left: 15px;
     padding-right: 15px;
 }

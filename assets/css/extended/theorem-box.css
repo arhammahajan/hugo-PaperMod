@@ -6,7 +6,7 @@
     margin-bottom: 20px;
 }
 
-.theorem-box span {
+.theorem-box h3 {
     background-color: #2C5F37; /* Darker green for the title background */
     color: white;
     padding: 7px;

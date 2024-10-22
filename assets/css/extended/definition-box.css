@@ -6,7 +6,7 @@
     margin-bottom: 20px;
 }
 
-.definition-box span {
+.definition-box h3 {
     background-color: #9699CB; /* Darker green for the title background */
     color: white;
     padding: 7px;
@@ -26,3 +26,4 @@
 .definition-box a{
     color: black;
 }
+

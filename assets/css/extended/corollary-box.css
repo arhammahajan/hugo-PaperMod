@@ -6,7 +6,7 @@
     margin-bottom: 20px;
 }
 
-.corollary-box span {
+.corollary-box h3 {
     background-color: #cfa8a8; /* Darker green for the title background */
     color: white;
     padding: 7px;

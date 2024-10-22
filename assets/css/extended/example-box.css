@@ -6,7 +6,7 @@
     margin-bottom: 20px;
 }
 
-.example-box span {
+.example-box h3 {
     background-color: #F0C3A1; /* Darker green for the title background */
     color: black;
     padding: 7px;

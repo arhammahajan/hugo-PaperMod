@@ -6,7 +6,7 @@
     margin-bottom: 20px;
 }
 
-.derivation-box span {
+.derivation-box h3 {
     background-color: #137BBF; /* Darker green for the title background */
     color: white;
     padding: 7px;
